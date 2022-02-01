@@ -1,0 +1,39 @@
+body{
+    padding-top: 20px;
+}
+
+.nav-pills{
+    background-color: #eee;
+    border: 1px solid black;
+}
+.nav-pills>li>a{
+    padding: 15px 0;
+    color: black;
+    text-align: center;
+    background-color: #e5e5e5;
+}
+.jumbotron{
+    text-align: center;
+    background-color: transparent;
+    
+}
+
+.jumbotron>.btn{
+    padding: 15px,20px;
+    font-size: 25px;
+}
+
+
+.col-lg-4>p{
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+
+
